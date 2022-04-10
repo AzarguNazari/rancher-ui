@@ -7,7 +7,7 @@ This repository contains the source code of Rancher UI 1.6. Taking out from the 
 ## Usage
 
 Prerequisites:
-* [Bower](from http://bower.io/)
+* [Bower](http://bower.io/)
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) 0.12.x (with NPM). Note: If you have are using a different version of Node, you could change it to the 0.12.x [using Stackoverflow](https://stackoverflow.com/questions/32045991/please-update-your-node-runtime-to-version-0-12-x)
 
