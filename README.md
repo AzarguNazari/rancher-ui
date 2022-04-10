@@ -11,7 +11,7 @@ Prerequisites:
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) 0.12.x (with NPM)
 
-If you're on a Mac and use Homebrew, you can follow these steps:
+If you're on a Debian/Ubuntu, you can follow these steps:
 ```bash
   sudo apt install watchman
   npm install -g bower
