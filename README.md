@@ -1,7 +1,7 @@
 Rancher UI
 --------
 
-Perhaps you like managing Cattle.
+This repository contains the source code of Rancher UI 1.6. Taking out from the dast and maintaining it here.
 
 
 ## Usage
@@ -9,7 +9,7 @@ Perhaps you like managing Cattle.
 Prerequisites:
 * [Bower](from http://bower.io/)
 * [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) 0.12.x (with NPM)
+* [Node.js](http://nodejs.org/) 0.12.x (with NPM). Note: If you have are using a different version of Node, you could change it to the 0.12.x [using Stackoverflow](https://stackoverflow.com/questions/32045991/please-update-your-node-runtime-to-version-0-12-x)
 
 If you're on a Debian/Ubuntu, you can follow these steps:
 ```bash
@@ -29,7 +29,7 @@ Run development server:
   npm start
 ```
 
-Connect to UI at https://localhost:8000/ .  The server automatically picks up file changes, restarts itself, and reloads the web browser.  This is intended only for development, see below for distributing customizations.
+Connect to UI at `https://localhost:8000/`. The server automatically picks up file changes, restarts itself, and reloads the web browser. This is intended only for development, see below for distributing customizations.
 
 Run development server pointed at another instance of the Rancher API
 ```bash
